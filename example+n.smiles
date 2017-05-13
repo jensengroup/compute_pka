@@ -1,0 +1,10 @@
+Histamine_0=0 NCCc1c[nH]cn1
+Histamine_1=1 [NH3+]CCc1c[nH]cn1
+Histamine_1=2 NCCc1c[nH+]c[nH]1
+Histamine_0=3 NCCc1cnc[nH]1
+Histamine_1=4 [NH3+]CCc1cnc[nH]1
+Histamine_2=6 [NH3+]CCc1c[nH+]c[nH]1
+Niacine_0=0 O=C(O)c1cccnc1
+Niacine_1=1 O=C(O)c1ccc[nH+]c1
+Niacine_-1=2 O=C([O-])c1cccnc1
+Niacine_0=3 O=C([O-])c1ccc[nH+]c1
